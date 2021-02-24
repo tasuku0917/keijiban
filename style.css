@@ -1,0 +1,22 @@
+header img{
+    text-align: left;
+    width: 25%;
+    height: 30px;
+    margin-left: 50px;
+}
+.box{
+    width: 90%;
+    height:50px;
+    margin-left: 100px;
+    background-color: black;
+        color:white;
+}
+.menu{
+    padding-left: 100px;
+}
+header li{
+    float: left;
+    padding: 15px;
+    font-size: 15px;
+    list-style-type: none;   
+}
